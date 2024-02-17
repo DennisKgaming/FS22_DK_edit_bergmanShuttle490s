@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<light>
+    <filename>$data/shared/assets/lights/lizard/workingLight11.i3d</filename>
+    <rootNode node="0" />
+	<reverseLight node="0|0|1" intensity="0.5"/>
+	<reverseLight node="0|0|0" intensity="45"/>
+    <defaultLight node="0|0|1" lightTypes="1" intensity="0.5"/>
+    <defaultLight node="0|0|0" lightTypes="1" intensity="45"/>
+</light>

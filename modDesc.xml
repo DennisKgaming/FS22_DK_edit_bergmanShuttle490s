@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="60">
+
+    <author>DennisK</author>
+	
+    <version>1.0.0.0</version>
+	
+    <title>
+        <en>Bergmann SHUTTLE 490 S DK edit</en>
+    </title>
+	
+    <description>
+        <en>My Mod Description</en>
+    </description>
+	
+    <iconFilename>icons/icon_shuttle490S.png</iconFilename>
+	
+    <storeItems>
+        <storeItem xmlFilename="xml/shuttle490S.xml"/>
+    </storeItems>
+	
+	<multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+        <sourceFile filename="scripts/categorizer.lua"/>
+    </extraSourceFiles>
+	
+	<newcategory name="DennisKtools" title="DennisK" type="TOOL" img="Categories/CategoryTools.png" />
+	
+</modDesc>

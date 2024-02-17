@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>DennisK</translationContributors>
+	
+	<!-- $l10n_ -->
+
+    <texts>
+		
+		<text name="color_mattBlack" 					text="Noir mat"/>
+		<text name="color_mattGrey" 					text="Gris mat"/>
+		<text name="color_mattWhite" 					text="Blanc mat"/>
+		<text name="color_chrome" 						text="Chrome"/>
+		<text name="color_satinGray" 					text="Gris satin"/>
+		<text name="color_satinOrange" 					text="Orange satin"/>
+		<text name="color_satinBeige" 					text="Beige satin"/>
+		
+		<text name="configuration_window" 				text="Vitres teintées"/>
+		<text name="configuration_light" 				text="Rampe d'éclairage"/>
+		<text name="configuration_beacon" 				text="Gyrophares"/>
+		<text name="configuration_covering" 			text="Covering"/>
+		
+		<text name="configuration_leds" 				text="Flash leds"/>
+		<text name="configuration_option" 				text="Grille, Gabarit et Antenne"/>
+		<text name="configuration_fenders" 				text="Ailes arrières"/>
+		<text name="configuration_roofhood" 			text="Capot et toit"/>
+		<text name="configuration_roofhood2" 			text="Capot et toit2"/>
+		<text name="configuration_roofhood3" 			text="Capot/toit et rétro jaune"/>
+		<text name="configuration_roofhood4" 			text="Capot/toit et rétro blanc"/>
+		<text name="configuration_roofhood5" 			text="Capot/toit2 et rétro jaune"/>
+		<text name="configuration_roofhood6" 			text="Capot/toit2 et rétro blanc"/>
+		
+		<text name="configuration_colorbody" 			text="Carrosserie"/>
+		<text name="configuration_colorgrid" 			text="Grille"/>
+		<text name="configuration_colorhood" 			text="Capot"/>
+		<text name="configuration_colorhood02" 			text="Capot et petite grille"/>
+		<text name="configuration_colorroof" 			text="Toit"/>
+		<text name="configuration_colorroof2" 			text="Toit 2"/>
+		
+		<text name="configuration_noirMat" 				text="Noir mat"/>
+		<text name="configuration_blancMat" 			text="Blanc mat"/>
+		<text name="configuration_grisSatin" 			text="Gris satin"/>
+		<text name="configuration_orangeSatin" 			text="Orange satin"/>
+		<text name="configuration_beigeSatin" 			text="Beige satin"/>
+		
+		
+		
+    </texts>
+</l10n>

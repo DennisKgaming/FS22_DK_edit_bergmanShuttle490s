@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>DennisK</translationContributors>
+	
+	<!-- $l10n_ -->
+
+    <texts>
+	
+		<text name="color_NormGrey" 					text="Standard Grau"/>
+		<text name="color_mattBlack" 					text="Mattschwarz"/>
+		<text name="color_mattGrey" 					text="Mattgrau"/>
+		<text name="color_mattWhite" 					text="White matte"/>
+		<text name="color_chrome" 						text="Chrom"/>
+		<text name="color_satinGray" 					text="Satin grau"/>
+		<text name="color_satinOrange" 					text="Satin orange"/>
+		<text name="color_satinBeige" 					text="Satin beige"/>
+		
+		<text name="color_JCBYellow" 					text="JCB Gelb"/>
+		<text name="color_JCBBlack" 					text="JCB Schwarz"/>
+		
+		<text name="configuration_window" 				text="Getönte Scheiben"/>
+		<text name="configuration_light" 				text="Lichtleiste"/>
+		<text name="configuration_beacon" 				text="Rundumleuchte"/>
+		<text name="configuration_covering" 			text="Covering"/>
+		
+		<text name="configuration_leds" 				text="Led Blitzlichter"/>
+		<text name="configuration_option" 				text="Gitter, Warnschild und Antenne"/>
+		<text name="configuration_fenders" 				text="Heckflügel"/>
+		<text name="configuration_roofhood" 			text="Dach und Motorhaube"/>
+		<text name="configuration_roofhood2" 			text="Dach und Motorhaube2"/>
+		<text name="configuration_roofhood3" 			text="Dach/Motorhaube und gelber Spiegel"/>
+		<text name="configuration_roofhood4" 			text="Dach/Motorhaube und weißer Spiegel"/>
+		<text name="configuration_roofhood5" 			text="Dach/Motorhaube2 und gelber Spiegel"/>
+		<text name="configuration_roofhood6" 			text="Dach/Motorhaube2 und weißer Spiegel"/>
+		
+		<text name="configuration_colorbody" 			text="Karosserie"/>
+		<text name="configuration_colorgrid" 			text="Gitter"/>
+		<text name="configuration_colorhood" 			text="Motorhaube"/>
+		<text name="configuration_colorhood02" 			text="Motorhaube und kleiner Grill"/>
+		<text name="configuration_colorroof" 			text="Dach"/>
+		<text name="configuration_colorroof2" 			text="Dach 2"/>
+		
+		<text name="configuration_noirMat" 				text="Schwarz matt"/>
+		<text name="configuration_blancMat" 			text="White matte"/>
+		<text name="configuration_grisSatin" 			text="Satin grau"/>
+		<text name="configuration_orangeSatin" 			text="Satin orange"/>
+		<text name="configuration_beigeSatin" 			text="Satin beige"/>
+		
+
+    </texts>
+</l10n>

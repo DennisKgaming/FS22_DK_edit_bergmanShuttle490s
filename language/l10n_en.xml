@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>DennisK</translationContributors>
+	
+	<!-- $l10n_ -->
+
+    <texts>
+	
+		<text name="color_JCBYellow" 					text="JCB Yellow"/>
+		<text name="color_JCBBlack" 					text="JCB Black"/>
+		
+		<text name="color_NormGrey" 					text="Default Grey"/>
+		<text name="color_mattBlack" 					text="Matt Black"/>
+		<text name="color_mattGrey" 					text="Matt Grey"/>
+		<text name="color_mattWhite" 					text="Matt White"/>
+		<text name="color_chrome" 						text="Chrome"/>
+		<text name="color_satinGray" 					text="Satin grey"/>
+		<text name="color_satinOrange" 					text="Satin orange"/>
+		<text name="color_satinBeige" 					text="Satin beige"/>
+		
+		<text name="configuration_window" 				text="Tinted windows"/>
+		<text name="configuration_light" 				text="Lighting ramp"/>
+		<text name="configuration_beacon" 				text="Beacons"/>
+		<text name="configuration_covering" 			text="Covering"/>
+		
+		<text name="configuration_leds" 				text="Flash leds"/>
+		<text name="configuration_option" 				text="Grid, Warning sign and Antenna"/>
+		<text name="configuration_fenders" 				text="Rear fenders"/>
+		<text name="configuration_roofhood" 			text="Hood and roof"/>
+		<text name="configuration_roofhood2" 			text="Hood and roof2"/>
+		<text name="configuration_roofhood3" 			text="Hood/roof and yellow mirror"/>
+		<text name="configuration_roofhood4" 			text="Hood/roof and white mirror"/>
+		<text name="configuration_roofhood5" 			text="Hood/roof2 and yellow mirror"/>
+		<text name="configuration_roofhood6" 			text="Hood/roof2 and white mirror"/>
+		
+		<text name="configuration_colorbody" 			text="Body"/>
+		<text name="configuration_colorgrid" 			text="Grid"/>
+		<text name="configuration_colorhood" 			text="Hood"/>
+		<text name="configuration_colorhood02" 			text="Hood and small grid"/>
+		<text name="configuration_colorroof" 			text="Roof"/>
+		<text name="configuration_colorroof2" 			text="Roof 2"/>
+		
+		<text name="configuration_noirMat" 				text="Matt Black"/>
+		<text name="configuration_blancMat" 			text="Matt White"/>
+		<text name="configuration_grisSatin" 			text="Satin grey"/>
+		<text name="configuration_orangeSatin" 			text="Satin orange"/>
+		<text name="configuration_beigeSatin" 			text="Satin beige"/>
+
+		
+				
+    </texts>
+</l10n>
